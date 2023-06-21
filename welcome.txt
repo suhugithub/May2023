@@ -1,2 +1,3 @@
 welcome to suhu devops training
 this is im trying first time..
+this is from command prompt testing
